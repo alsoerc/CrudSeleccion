@@ -32,6 +32,4 @@ public class Jugador {
     public void setEdad(int edad) {
         this.edad = edad;
     }
-    
-    
 }
